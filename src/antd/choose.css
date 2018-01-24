@@ -1,0 +1,25 @@
+.choose {
+  height: 260px;
+  background: url(../assets/icon.jpg) no-repeat center 0;
+  background-size: 390px 237px;
+}
+
+.titleDiv {
+  text-align: center;
+  margin-top: 30%;
+  margin-bottom: 5%;
+}
+
+
+.title {
+  font-family: inherit !important;
+  font-size: 28px !important;
+  line-height: 32px !important;
+  letter-spacing: -0.6px !important;
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  color: #484848 !important;
+  font-weight: 300 !important;
+
+}
+
